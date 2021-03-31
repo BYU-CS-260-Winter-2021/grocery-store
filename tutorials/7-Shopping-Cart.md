@@ -50,6 +50,8 @@ Remember, each product has a unique ID. So you could search the cart to see if a
 is already there, and then add a `quantity` property to items in the cart. You could
 also use an object that is indexed by property ID.
 
+Functionality we are looking for: (1) the cart shows the quantity of each item in the cart, and (2) you can edit the quantity of each item when viewing the cart.
+
 ## Next Tutorial
 
 [Installing on Digital Ocean](/tutorials/8-Installing-on-Digital-Ocean.md)
